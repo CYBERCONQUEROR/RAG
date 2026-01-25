@@ -40,3 +40,7 @@ await PineconeStore.fromDocuments(chunkedDocs, embeddings, {
 console.log("Documents Stored in Pinecone Successfully");
 }
 main();
+
+
+
+
